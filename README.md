@@ -1,107 +1,105 @@
 # GitHub-Portfolio
-# 👋 Hi, I'm Siphesihle
 
-🎓 IT Student | 💻 Aspiring Software Developer
 
----
+# 👋 Hi, I'm Siphesihle Mposelwa
 
-## 🌟 About Me
+##  About Me
 
-I design systems using **mock language (pseudocode)** to demonstrate logic, problem-solving, and system structure before implementation.
+I am a Diploma in ICT student at CPUT with a passion for web development and software design. I enjoy building user-friendly applications and continuously improving my technical skills.
 
 ---
 
-## 💻 Skills
+## 📄 My CV
 
-* 🧠 System Design
-* 📝 Pseudocode (Mock Language)
-* 📊 Problem Solving
-* 💡 Application Logic Development
+### 🎓 Education
 
----
+* Diploma in Information and Communication Technology – CPUT
 
-## 📂 My Projects (Mock Implementations)
+### 💻 Skills
 
-### 🏠 Residence Application System
+* HTML, CSS, JavaScript
+* Java Programming
+* SQL
+* GitHub & Version Control
 
-A system for managing student residence applications.
+### 💼 Work Experience
 
-#### 🔹 Login Module
-
-```
-START
-  PROMPT user to enter username and password
-  IF details are correct THEN
-      GRANT access
-      REDIRECT to dashboard
-  ELSE
-      DISPLAY error message
-END
-```
-
-#### 🔹 Application Module
-
-```
-START
-  DISPLAY application form
-  CAPTURE student details
-  VALIDATE inputs
-  SAVE application
-  DISPLAY "Application submitted"
-END
-```
+* Promoter (Part-time)
 
 ---
 
-### 🧑‍💼 Employee Management System
+## 💼 Projects
 
-Handles employee records using file storage logic.
+### 🌐 Personal Portfolio Website
 
-```
-START
-  DISPLAY menu (Add, View, Delete)
+This is a website I built using HTML, CSS, and JavaScript to showcase my work.
 
-  IF user selects Add THEN
-      CAPTURE employee details
-      SAVE to file
-  ENDIF
-
-  IF user selects View THEN
-      READ file
-      DISPLAY employees
-  ENDIF
-END
-```
+🔗 (file:///C:/Users/User/Documents/MyPortfolio/index.html#projects)
 
 ---
 
-### 📊 Subject Management System
+## 🎥 Mock Interview Video
 
-CRUD system for managing subjects.
-
-```
-START
-  DISPLAY options (Add, Update, Delete, View)
-
-  CASE option
-    ADD → insert subject
-    UPDATE → modify subject
-    DELETE → remove subject
-    VIEW → display all subjects
-  ENDCASE
-END
-```
+🔗 (Mock interview video 2026-03-09 at 20.21.56.mp4)
 
 ---
 
-## 📈 What I'm Learning
+##  Reflection on Markdown (STAR Method)
 
-* Turning pseudocode into real applications
-* Java and database integration
-* Building complete systems from design to implementation
+**Situation:**
+I was required to create a GitHub portfolio using Markdown.
+
+**Task:**
+My task was to present my CV and projects using Markdown.
+
+**Action:**
+I learned how to use Markdown syntax such as headings, lists, and links to structure my content.
+
+**Result:**
+I successfully created a professional and well-structured portfolio.
 
 ---
 
-## 📫 Contact Me
+## Reflection on Mock Interview (STAR Method)
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
+**Situation:**
+I participated in a mock interview as part of work readiness training.
+
+**Task:**
+I needed to present myself professionally and answer interview questions.
+
+**Action:**
+I practiced common interview questions and improved my communication skills.
+
+**Result:**
+I gained confidence and improved my interview performance.
+
+---
+
+## 🌍 GitHub Pages Link
+
+🔗 (Will be added after deployment)
+
+---
+
+##  Reflection on GitHub Pages (STAR Method)
+
+**Situation:**
+I needed to publish my portfolio online.
+
+**Task:**
+Deploy my project using GitHub Pages.
+
+**Action:**
+I configured my repository settings and enabled GitHub Pages.
+
+**Result:**
+My portfolio is now live and accessible online.
+
+
+
+
+
+
+ 
+  
