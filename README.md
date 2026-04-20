@@ -1,7 +1,7 @@
 # GitHub-Portfolio
 
 
-# 👋 Hi, I'm Siphesihle Mposelwa
+#  Hi, I'm Siphesihle Mposelwa
 
 ##  About Me
 
