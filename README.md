@@ -99,12 +99,11 @@ My portfolio is now live and accessible online.
 
 ## 📜 Certificates
 
-- Web Development Certificate  
-- Java Programming Certificate  
-- SQL Fundamentals Certificate  
-
-🔗 (Add links or images below)
-
+- AI for All  
+- FNB FULL-STACK 
+- AI Foundation Associate
+-  AI for Career Growth
+   
 
 
  
