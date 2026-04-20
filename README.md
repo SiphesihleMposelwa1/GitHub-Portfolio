@@ -97,7 +97,13 @@ I configured my repository settings and enabled GitHub Pages.
 My portfolio is now live and accessible online.
 
 
+## 📜 Certificates
 
+- Web Development Certificate  
+- Java Programming Certificate  
+- SQL Fundamentals Certificate  
+
+🔗 (Add links or images below)
 
 
 
