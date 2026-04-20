@@ -40,7 +40,7 @@ This is a website I built using HTML, CSS, and JavaScript to showcase my work.
 
 ## 🎥 Mock Interview Video
 
-🔗 (Mock interview video 2026-03-09 at 20.21.56.mp4)
+🔗 (https://youtu.be/UhHSRf5ot70)
 
 ---
 
