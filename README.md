@@ -76,9 +76,9 @@ I gained confidence and improved my interview performance.
 
 ---
 
-## 🌍 GitHub Pages Link
+## GitHub Pages Link
 
-🔗 (Will be added after deployment)
+🔗 ( https://siphesihlemposelwa1.github.io/GitHub-Portfolio/)
 
 ---
 
