@@ -26,6 +26,17 @@ I am a Diploma in ICT student at CPUT with a passion for web development and sof
 
 * Promoter (Part-time)
 
+## Reflection on CV Creation
+
+### Situation
+As part of my work readiness training, I was required to create a professional Curriculum Vitae (CV) that could be used when applying for internships, learnerships, and future employment opportunities in the ICT industry.
+
+### Task
+My task was to develop a well-structured and professional CV that highlights my personal information, educational background, technical skills, strengths, and achievements in a clear and organised manner.
+
+### Action
+I gathered all my important information including my education, technical skills, certifications, and personal strengths. I then used proper formatting and Markdown structure to create a professional CV that is easy to read and visually organised.
+
 ---
 
 ## 💼 Projects
@@ -103,8 +114,13 @@ My portfolio is now live and accessible online.
 - FNB FULL-STACK 
 - AI Foundation Associate
 -  AI for Career Growth
+-  Google AI Essentials Specialization
    
+# CONTACT DETAILS
 
+- Email: 222330325@mycput.ac.za
+- LinkedIn: https://www.linkedin.com/in/siphesihle-mposelwa-1b1418255/
+- GitHub: 
 
  
   
