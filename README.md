@@ -120,7 +120,7 @@ My portfolio is now live and accessible online.
 
 - Email: 222330325@mycput.ac.za
 - LinkedIn: https://www.linkedin.com/in/siphesihle-mposelwa-1b1418255/
-- GitHub: 
+- GitHub: https://github.com/SiphesihleMposelwa1
 
  
   
