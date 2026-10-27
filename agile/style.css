@@ -1,0 +1,28 @@
+:root{--bg:#f6f8fb;--card:#fff;--ink:#1c2430;--muted:#5b6675;--brand:#0b6fa4;--brand-dark:#084d73;--line:#dde3ea;--todo-bg:#fff7d6;--todo-line:#e5c100}
+*{box-sizing:border-box}
+body{margin:0;font-family:"Segoe UI",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.65}
+header{background:var(--brand-dark);color:#fff;padding:28px 20px}
+header h1{margin:0;font-size:1.6rem}
+header p{margin:4px 0 0;opacity:.85}
+nav{background:var(--brand);padding:0 12px;display:flex;flex-wrap:wrap}
+nav a{color:#fff;text-decoration:none;padding:12px 14px;font-size:.95rem}
+nav a:hover,nav a.active{background:var(--brand-dark)}
+main{max-width:900px;margin:24px auto;padding:0 16px}
+section{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:22px 24px;margin-bottom:22px}
+h2{margin-top:0;color:var(--brand-dark);border-bottom:2px solid var(--line);padding-bottom:6px}
+h3{color:var(--brand-dark);margin-bottom:6px}
+table{width:100%;border-collapse:collapse;margin:12px 0;font-size:.93rem}
+th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
+th{background:#eaf2f8}
+figure{margin:16px 0}
+figure img{max-width:100%;border:1px solid var(--line);border-radius:6px}
+figcaption{font-size:.85rem;color:var(--muted);margin-top:4px}
+.todo{background:var(--todo-bg);border-left:5px solid var(--todo-line);padding:10px 14px;margin:14px 0;border-radius:4px;font-size:.92rem}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
+.card{border:1px solid var(--line);border-radius:8px;padding:14px;background:#fbfdff}
+.card a{color:var(--brand);font-weight:600;text-decoration:none}
+.flow{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:10px 0}
+.flow span{background:#eaf2f8;border:1px solid var(--line);padding:6px 12px;border-radius:20px;font-size:.9rem}
+footer{text-align:center;color:var(--muted);font-size:.85rem;padding:20px}
+.pager{display:flex;justify-content:space-between;margin:10px 0 30px}
+.pager a{color:var(--brand);text-decoration:none;font-weight:600}
