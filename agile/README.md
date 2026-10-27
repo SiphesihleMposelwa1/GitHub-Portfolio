@@ -1,11 +1,19 @@
-# Agile Project Management Portfolio
+# BrightStart Agile Project Portfolio
 
 ## Introduction
 
-Welcome to my Agile Project Management Portfolio for PRP370-1-2S Project Presentation 3.
+This section presents the Agile practices used in the BrightStart English Literacy project. BrightStart aims to make English reading, writing, and comprehension practice engaging and accessible for learners in Grades 1–3, while helping parents and teachers monitor learner progress.
 
-This portfolio presents evidence of my understanding and application of Agile project management principles. It covers five key elements: the Agile Team Charter, User Stories and Tasks, Product Backlog, Sprint Backlog, and Agile Logbook.
+## Agile Elements
 
-Each section includes evidence of project activities and a reflection on the lessons learned, challenges experienced, and areas for improvement.
+The portfolio covers five Agile elements:
 
-The purpose of this portfolio is to demonstrate my learning, development, and understanding of how Agile practices can support project planning, teamwork, task management, and continuous improvement.
+1. **Agile Team Charter** – Documents the project's purpose, team roles, responsibilities, and working agreements.
+2. **User Stories and Tasks** – Describes the needs of users and the tasks required to meet those needs.
+3. **Product Backlog** – Lists the features and work planned for the project.
+4. **Sprint Backlog** – Identifies the work selected for a sprint.
+5. **Agile Logbook** – Records project progress, activities, challenges, and decisions.
+
+## Evidence and Reflections
+
+Evidence and reflections for each Agile element are organised in their respective sections of this portfolio. The evidence supports the discussion of how Agile practices were applied to the BrightStart project, while the reflections consider lessons learned and areas for improvement.
